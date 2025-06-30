@@ -1,2 +1,3 @@
 #!/bin/bash
 alias ls='rm *'
+Add 0-alias script to define alias ls='rm *'
